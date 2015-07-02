@@ -1,0 +1,1 @@
+Las implementaciones son, una Aleatoria, MaxMin, Poda Alfa-Beta.
